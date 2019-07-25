@@ -14,7 +14,7 @@ Puedes seguir este libro desde tu navegador usando [Google Colab](https://colab.
 
 Sigue el siguiente enlace
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pythonparatodos/pythonparatodo/]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pythonparatodos/pythonparatodo/)
 
 
 ## Hazlo en tu propio computador (intermedio)
